@@ -13,7 +13,7 @@ image: img/blog-flavor_wheel.jpg
 
 `dsadsaasdasdas`
 
-`asdsadsadasdasd `
+`asdsadsadasdasd`
 
 `asdsad`
 
@@ -50,9 +50,5 @@ We sell green and roasted coffee beans that are sourced directly from independen
 <!--StartFragment-->
 
 We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us dir
-
-> <!--EndFragment-->
-
-
 
 <!--EndFragment-->
