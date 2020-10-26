@@ -26,6 +26,14 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: img/it-consulting-logo-template-with-abstract-graphics-597b-el1-2-.png
+    text: >+
+      We sell green and roasted coffee beans that are sourced directly from
+      independent farmers and farm cooperatives. We’re proud to offer a variety
+      of coffee beans grown with great care for the environment and local
+      communities. Check our post or contact us dir
+
+
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
